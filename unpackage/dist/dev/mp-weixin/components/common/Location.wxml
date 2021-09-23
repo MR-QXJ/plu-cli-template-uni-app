@@ -1,0 +1,1 @@
+<view><u-button bind:click="__e" vue-id="d63bbf90-1" data-event-opts="{{[['^click',[['locationAut']]]]}}" bind:__l="__l" vue-slots="{{['default']}}">获取定位</u-button><view>{{''+location+''}}</view></view>
