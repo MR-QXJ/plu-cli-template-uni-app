@@ -39,4 +39,14 @@
 .w100.data-v-57280228 {
   width: 100%;
 }
+.home.data-v-57280228 {
+  line-height: 500rpx;
+  text-align: center;
+  font-size: 30rpx;
+}
+.home .title.data-v-57280228 {
+  font-style: italic;
+  font-weight: 700;
+  color: #00bbe4;
+}
 

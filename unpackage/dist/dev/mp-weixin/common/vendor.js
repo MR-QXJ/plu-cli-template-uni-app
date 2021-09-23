@@ -8012,9 +8012,9 @@ module.exports = g;
 
 /***/ }),
 /* 4 */
-/*!*****************************************************************************!*\
-  !*** C:/Users/Administrator/Documents/HBuilderProjects/uni-test/pages.json ***!
-  \*****************************************************************************/
+/*!***************************************************************!*\
+  !*** D:/work/其他/project-self/cli-template/uni-app/pages.json ***!
+  \***************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -8025,9 +8025,9 @@ module.exports = g;
 /* 6 */,
 /* 7 */,
 /* 8 */
-/*!*********************************************************************************!*\
-  !*** C:/Users/Administrator/Documents/HBuilderProjects/uni-test/utils/utils.js ***!
-  \*********************************************************************************/
+/*!*******************************************************************!*\
+  !*** D:/work/其他/project-self/cli-template/uni-app/utils/utils.js ***!
+  \*******************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -8936,9 +8936,9 @@ if (hadRuntime) {
 
 /***/ }),
 /* 12 */
-/*!**********************************************************************************!*\
-  !*** C:/Users/Administrator/Documents/HBuilderProjects/uni-test/network/http.js ***!
-  \**********************************************************************************/
+/*!********************************************************************!*\
+  !*** D:/work/其他/project-self/cli-template/uni-app/network/http.js ***!
+  \********************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -9135,9 +9135,9 @@ function checkCode(res) {
 
 /***/ }),
 /* 13 */
-/*!**********************************************************************************!*\
-  !*** C:/Users/Administrator/Documents/HBuilderProjects/uni-test/utils/global.js ***!
-  \**********************************************************************************/
+/*!********************************************************************!*\
+  !*** D:/work/其他/project-self/cli-template/uni-app/utils/global.js ***!
+  \********************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -9149,9 +9149,9 @@ var LOCAL_USER = 'storage_user_mp';exports.LOCAL_USER = LOCAL_USER;
 
 /***/ }),
 /* 14 */
-/*!*********************************************************************************!*\
-  !*** C:/Users/Administrator/Documents/HBuilderProjects/uni-test/network/api.js ***!
-  \*********************************************************************************/
+/*!*******************************************************************!*\
+  !*** D:/work/其他/project-self/cli-template/uni-app/network/api.js ***!
+  \*******************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -9296,9 +9296,9 @@ function normalizeComponent (
 
 /***/ }),
 /* 18 */
-/*!************************************************************************************!*\
-  !*** C:/Users/Administrator/Documents/HBuilderProjects/uni-test/uview-ui/index.js ***!
-  \************************************************************************************/
+/*!**********************************************************************!*\
+  !*** D:/work/其他/project-self/cli-template/uni-app/uview-ui/index.js ***!
+  \**********************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -9447,9 +9447,9 @@ var install = function install(Vue) {
 
 /***/ }),
 /* 19 */
-/*!***********************************************************************************************!*\
-  !*** C:/Users/Administrator/Documents/HBuilderProjects/uni-test/uview-ui/libs/mixin/mixin.js ***!
-  \***********************************************************************************************/
+/*!*********************************************************************************!*\
+  !*** D:/work/其他/project-self/cli-template/uni-app/uview-ui/libs/mixin/mixin.js ***!
+  \*********************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -9520,9 +9520,9 @@ var install = function install(Vue) {
 
 /***/ }),
 /* 20 */
-/*!*************************************************************************************************!*\
-  !*** C:/Users/Administrator/Documents/HBuilderProjects/uni-test/uview-ui/libs/request/index.js ***!
-  \*************************************************************************************************/
+/*!***********************************************************************************!*\
+  !*** D:/work/其他/project-self/cli-template/uni-app/uview-ui/libs/request/index.js ***!
+  \***********************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -9700,9 +9700,9 @@ new Request();exports.default = _default;
 
 /***/ }),
 /* 21 */
-/*!******************************************************************************************************!*\
-  !*** C:/Users/Administrator/Documents/HBuilderProjects/uni-test/uview-ui/libs/function/deepMerge.js ***!
-  \******************************************************************************************************/
+/*!****************************************************************************************!*\
+  !*** D:/work/其他/project-self/cli-template/uni-app/uview-ui/libs/function/deepMerge.js ***!
+  \****************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -9740,9 +9740,9 @@ deepMerge;exports.default = _default;
 
 /***/ }),
 /* 22 */
-/*!******************************************************************************************************!*\
-  !*** C:/Users/Administrator/Documents/HBuilderProjects/uni-test/uview-ui/libs/function/deepClone.js ***!
-  \******************************************************************************************************/
+/*!****************************************************************************************!*\
+  !*** D:/work/其他/project-self/cli-template/uni-app/uview-ui/libs/function/deepClone.js ***!
+  \****************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -9773,9 +9773,9 @@ deepClone;exports.default = _default;
 
 /***/ }),
 /* 23 */
-/*!*************************************************************************************************!*\
-  !*** C:/Users/Administrator/Documents/HBuilderProjects/uni-test/uview-ui/libs/function/test.js ***!
-  \*************************************************************************************************/
+/*!***********************************************************************************!*\
+  !*** D:/work/其他/project-self/cli-template/uni-app/uview-ui/libs/function/test.js ***!
+  \***********************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -10014,9 +10014,9 @@ function code(value) {var len = arguments.length > 1 && arguments[1] !== undefin
 
 /***/ }),
 /* 24 */
-/*!********************************************************************************************************!*\
-  !*** C:/Users/Administrator/Documents/HBuilderProjects/uni-test/uview-ui/libs/function/queryParams.js ***!
-  \********************************************************************************************************/
+/*!******************************************************************************************!*\
+  !*** D:/work/其他/project-self/cli-template/uni-app/uview-ui/libs/function/queryParams.js ***!
+  \******************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -10082,9 +10082,9 @@ queryParams;exports.default = _default;
 
 /***/ }),
 /* 25 */
-/*!**************************************************************************************************!*\
-  !*** C:/Users/Administrator/Documents/HBuilderProjects/uni-test/uview-ui/libs/function/route.js ***!
-  \**************************************************************************************************/
+/*!************************************************************************************!*\
+  !*** D:/work/其他/project-self/cli-template/uni-app/uview-ui/libs/function/route.js ***!
+  \************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -10215,9 +10215,9 @@ new Router().route;exports.default = _default;
 
 /***/ }),
 /* 26 */
-/*!*******************************************************************************************************!*\
-  !*** C:/Users/Administrator/Documents/HBuilderProjects/uni-test/uview-ui/libs/function/timeFormat.js ***!
-  \*******************************************************************************************************/
+/*!*****************************************************************************************!*\
+  !*** D:/work/其他/project-self/cli-template/uni-app/uview-ui/libs/function/timeFormat.js ***!
+  \*****************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -10276,9 +10276,9 @@ timeFormat;exports.default = _default;
 
 /***/ }),
 /* 27 */
-/*!*****************************************************************************************************!*\
-  !*** C:/Users/Administrator/Documents/HBuilderProjects/uni-test/uview-ui/libs/function/timeFrom.js ***!
-  \*****************************************************************************************************/
+/*!***************************************************************************************!*\
+  !*** D:/work/其他/project-self/cli-template/uni-app/uview-ui/libs/function/timeFrom.js ***!
+  \***************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -10333,9 +10333,9 @@ timeFrom;exports.default = _default;
 
 /***/ }),
 /* 28 */
-/*!**********************************************************************************************************!*\
-  !*** C:/Users/Administrator/Documents/HBuilderProjects/uni-test/uview-ui/libs/function/colorGradient.js ***!
-  \**********************************************************************************************************/
+/*!********************************************************************************************!*\
+  !*** D:/work/其他/project-self/cli-template/uni-app/uview-ui/libs/function/colorGradient.js ***!
+  \********************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -10476,9 +10476,9 @@ function colorToRgba(color) {var alpha = arguments.length > 1 && arguments[1] !=
 
 /***/ }),
 /* 29 */
-/*!*************************************************************************************************!*\
-  !*** C:/Users/Administrator/Documents/HBuilderProjects/uni-test/uview-ui/libs/function/guid.js ***!
-  \*************************************************************************************************/
+/*!***********************************************************************************!*\
+  !*** D:/work/其他/project-self/cli-template/uni-app/uview-ui/libs/function/guid.js ***!
+  \***********************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -10527,9 +10527,9 @@ guid;exports.default = _default;
 
 /***/ }),
 /* 30 */
-/*!**************************************************************************************************!*\
-  !*** C:/Users/Administrator/Documents/HBuilderProjects/uni-test/uview-ui/libs/function/color.js ***!
-  \**************************************************************************************************/
+/*!************************************************************************************!*\
+  !*** D:/work/其他/project-self/cli-template/uni-app/uview-ui/libs/function/color.js ***!
+  \************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -10574,9 +10574,9 @@ color;exports.default = _default;
 
 /***/ }),
 /* 31 */
-/*!******************************************************************************************************!*\
-  !*** C:/Users/Administrator/Documents/HBuilderProjects/uni-test/uview-ui/libs/function/type2icon.js ***!
-  \******************************************************************************************************/
+/*!****************************************************************************************!*\
+  !*** D:/work/其他/project-self/cli-template/uni-app/uview-ui/libs/function/type2icon.js ***!
+  \****************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -10619,9 +10619,9 @@ type2icon;exports.default = _default;
 
 /***/ }),
 /* 32 */
-/*!********************************************************************************************************!*\
-  !*** C:/Users/Administrator/Documents/HBuilderProjects/uni-test/uview-ui/libs/function/randomArray.js ***!
-  \********************************************************************************************************/
+/*!******************************************************************************************!*\
+  !*** D:/work/其他/project-self/cli-template/uni-app/uview-ui/libs/function/randomArray.js ***!
+  \******************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -10636,9 +10636,9 @@ randomArray;exports.default = _default;
 
 /***/ }),
 /* 33 */
-/*!****************************************************************************************************!*\
-  !*** C:/Users/Administrator/Documents/HBuilderProjects/uni-test/uview-ui/libs/function/addUnit.js ***!
-  \****************************************************************************************************/
+/*!**************************************************************************************!*\
+  !*** D:/work/其他/project-self/cli-template/uni-app/uview-ui/libs/function/addUnit.js ***!
+  \**************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -10654,9 +10654,9 @@ function addUnit() {var value = arguments.length > 0 && arguments[0] !== undefin
 
 /***/ }),
 /* 34 */
-/*!***************************************************************************************************!*\
-  !*** C:/Users/Administrator/Documents/HBuilderProjects/uni-test/uview-ui/libs/function/random.js ***!
-  \***************************************************************************************************/
+/*!*************************************************************************************!*\
+  !*** D:/work/其他/project-self/cli-template/uni-app/uview-ui/libs/function/random.js ***!
+  \*************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -10674,9 +10674,9 @@ random;exports.default = _default;
 
 /***/ }),
 /* 35 */
-/*!*************************************************************************************************!*\
-  !*** C:/Users/Administrator/Documents/HBuilderProjects/uni-test/uview-ui/libs/function/trim.js ***!
-  \*************************************************************************************************/
+/*!***********************************************************************************!*\
+  !*** D:/work/其他/project-self/cli-template/uni-app/uview-ui/libs/function/trim.js ***!
+  \***********************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -10699,9 +10699,9 @@ trim;exports.default = _default;
 
 /***/ }),
 /* 36 */
-/*!**************************************************************************************************!*\
-  !*** C:/Users/Administrator/Documents/HBuilderProjects/uni-test/uview-ui/libs/function/toast.js ***!
-  \**************************************************************************************************/
+/*!************************************************************************************!*\
+  !*** D:/work/其他/project-self/cli-template/uni-app/uview-ui/libs/function/toast.js ***!
+  \************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -10719,9 +10719,9 @@ toast;exports.default = _default;
 
 /***/ }),
 /* 37 */
-/*!******************************************************************************************************!*\
-  !*** C:/Users/Administrator/Documents/HBuilderProjects/uni-test/uview-ui/libs/function/getParent.js ***!
-  \******************************************************************************************************/
+/*!****************************************************************************************!*\
+  !*** D:/work/其他/project-self/cli-template/uni-app/uview-ui/libs/function/getParent.js ***!
+  \****************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -10776,9 +10776,9 @@ function getParent(name, keys) {
 
 /***/ }),
 /* 38 */
-/*!****************************************************************************************************!*\
-  !*** C:/Users/Administrator/Documents/HBuilderProjects/uni-test/uview-ui/libs/function/$parent.js ***!
-  \****************************************************************************************************/
+/*!**************************************************************************************!*\
+  !*** D:/work/其他/project-self/cli-template/uni-app/uview-ui/libs/function/$parent.js ***!
+  \**************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -10804,9 +10804,9 @@ function $parent() {var name = arguments.length > 0 && arguments[0] !== undefine
 
 /***/ }),
 /* 39 */
-/*!************************************************************************************************!*\
-  !*** C:/Users/Administrator/Documents/HBuilderProjects/uni-test/uview-ui/libs/function/sys.js ***!
-  \************************************************************************************************/
+/*!**********************************************************************************!*\
+  !*** D:/work/其他/project-self/cli-template/uni-app/uview-ui/libs/function/sys.js ***!
+  \**********************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -10822,9 +10822,9 @@ function sys() {
 
 /***/ }),
 /* 40 */
-/*!*****************************************************************************************************!*\
-  !*** C:/Users/Administrator/Documents/HBuilderProjects/uni-test/uview-ui/libs/function/debounce.js ***!
-  \*****************************************************************************************************/
+/*!***************************************************************************************!*\
+  !*** D:/work/其他/project-self/cli-template/uni-app/uview-ui/libs/function/debounce.js ***!
+  \***************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -10861,9 +10861,9 @@ debounce;exports.default = _default;
 
 /***/ }),
 /* 41 */
-/*!*****************************************************************************************************!*\
-  !*** C:/Users/Administrator/Documents/HBuilderProjects/uni-test/uview-ui/libs/function/throttle.js ***!
-  \*****************************************************************************************************/
+/*!***************************************************************************************!*\
+  !*** D:/work/其他/project-self/cli-template/uni-app/uview-ui/libs/function/throttle.js ***!
+  \***************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -10903,9 +10903,9 @@ throttle;exports.default = _default;
 
 /***/ }),
 /* 42 */
-/*!*************************************************************************************************!*\
-  !*** C:/Users/Administrator/Documents/HBuilderProjects/uni-test/uview-ui/libs/config/config.js ***!
-  \*************************************************************************************************/
+/*!***********************************************************************************!*\
+  !*** D:/work/其他/project-self/cli-template/uni-app/uview-ui/libs/config/config.js ***!
+  \***********************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -10926,9 +10926,9 @@ var version = '1.8.4';var _default =
 
 /***/ }),
 /* 43 */
-/*!*************************************************************************************************!*\
-  !*** C:/Users/Administrator/Documents/HBuilderProjects/uni-test/uview-ui/libs/config/zIndex.js ***!
-  \*************************************************************************************************/
+/*!***********************************************************************************!*\
+  !*** D:/work/其他/project-self/cli-template/uni-app/uview-ui/libs/config/zIndex.js ***!
+  \***********************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 

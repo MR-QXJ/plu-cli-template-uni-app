@@ -1,1 +1,0 @@
-<view class="uchart data-v-1dc31da2"><qiun-data-charts vue-id="cabdd0b8-1" chartData="{{chartData}}" type="{{type}}" class="data-v-1dc31da2" bind:__l="__l"></qiun-data-charts></view>
